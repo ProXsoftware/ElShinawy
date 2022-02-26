@@ -1,2 +1,1 @@
-# ElShinawy
-Equipment store
+# El-Shinawy

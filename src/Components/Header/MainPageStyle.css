@@ -1,0 +1,63 @@
+.main-page{
+    min-height: 100vh;
+    background-size: cover;
+    position: relative;
+    transition: .3s;
+    z-index: 10;
+}
+
+.main-page .overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.main-page .overlay .header-area{
+    position: relative;
+    z-index: 2;
+    color: #EEE;
+    display: flex;
+    padding: 2%;
+}
+
+.main-page .overlay .introduction-text{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -2;
+    color: #EEE;
+    text-align: center;
+    width: 60%;
+}
+
+.main-page .overlay .introduction-text h1{
+    font-size: 40px;
+}
+
+.main-page .overlay .introduction-text h1 span{
+    color: gold;
+}
+
+.main-page .overlay .introduction-text p{
+    line-height: 1.6;
+    font-size: 18px;
+    color: #CCC;
+}
+
+@media(max-width:991px){
+    
+    .main-page .overlay .introduction-text{
+        position: unset;
+        margin-top: 10%;
+        transform: none;
+        z-index: -2;
+        color: #EEE;
+        text-align: center;
+        width: 100%;
+    }
+}
