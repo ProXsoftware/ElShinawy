@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/ElShinawy/static/css/main.a1898f85.chunk.css",
+    "main.js": "/ElShinawy/static/js/main.36e0e23e.chunk.js",
+    "main.js.map": "/ElShinawy/static/js/main.36e0e23e.chunk.js.map",
+    "runtime-main.js": "/ElShinawy/static/js/runtime-main.a2d38488.js",
+    "runtime-main.js.map": "/ElShinawy/static/js/runtime-main.a2d38488.js.map",
+    "static/js/2.6b73fef0.chunk.js": "/ElShinawy/static/js/2.6b73fef0.chunk.js",
+    "static/js/2.6b73fef0.chunk.js.map": "/ElShinawy/static/js/2.6b73fef0.chunk.js.map",
+    "static/js/3.996a9ccc.chunk.js": "/ElShinawy/static/js/3.996a9ccc.chunk.js",
+    "static/js/3.996a9ccc.chunk.js.map": "/ElShinawy/static/js/3.996a9ccc.chunk.js.map",
+    "index.html": "/ElShinawy/index.html",
+    "static/css/main.a1898f85.chunk.css.map": "/ElShinawy/static/css/main.a1898f85.chunk.css.map",
+    "static/js/2.6b73fef0.chunk.js.LICENSE.txt": "/ElShinawy/static/js/2.6b73fef0.chunk.js.LICENSE.txt",
+    "static/media/1.00932e7c.jpg": "/ElShinawy/static/media/1.00932e7c.jpg",
+    "static/media/10.9d65ab79.jpg": "/ElShinawy/static/media/10.9d65ab79.jpg",
+    "static/media/11.baa2b3d8.jpg": "/ElShinawy/static/media/11.baa2b3d8.jpg",
+    "static/media/12.42852089.jpg": "/ElShinawy/static/media/12.42852089.jpg",
+    "static/media/13.bbcc0828.jpg": "/ElShinawy/static/media/13.bbcc0828.jpg",
+    "static/media/14.4df8b605.jpg": "/ElShinawy/static/media/14.4df8b605.jpg",
+    "static/media/15.da0cc96f.jpg": "/ElShinawy/static/media/15.da0cc96f.jpg",
+    "static/media/16.e13661c5.jpg": "/ElShinawy/static/media/16.e13661c5.jpg",
+    "static/media/17.00ae6e90.jpg": "/ElShinawy/static/media/17.00ae6e90.jpg",
+    "static/media/18.76b005d9.jpg": "/ElShinawy/static/media/18.76b005d9.jpg",
+    "static/media/19.792b58bf.jpg": "/ElShinawy/static/media/19.792b58bf.jpg",
+    "static/media/3.91a91aba.jpg": "/ElShinawy/static/media/3.91a91aba.jpg",
+    "static/media/4.7ffe6fbf.jpg": "/ElShinawy/static/media/4.7ffe6fbf.jpg",
+    "static/media/6.d0635734.jpg": "/ElShinawy/static/media/6.d0635734.jpg",
+    "static/media/Export.42c57476.png": "/ElShinawy/static/media/Export.42c57476.png",
+    "static/media/Import.d0fbf3e5.jpg": "/ElShinawy/static/media/Import.d0fbf3e5.jpg",
+    "static/media/Maintanince.080eed33.jpg": "/ElShinawy/static/media/Maintanince.080eed33.jpg",
+    "static/media/Marketing.31001f2c.jpg": "/ElShinawy/static/media/Marketing.31001f2c.jpg",
+    "static/media/Rental.65bd7fb1.jpg": "/ElShinawy/static/media/Rental.65bd7fb1.jpg",
+    "static/media/about-us.6b39ab58.jpg": "/ElShinawy/static/media/about-us.6b39ab58.jpg",
+    "static/media/world-map.e6ba2c9c.png": "/ElShinawy/static/media/world-map.e6ba2c9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2d38488.js",
+    "static/js/2.6b73fef0.chunk.js",
+    "static/css/main.a1898f85.chunk.css",
+    "static/js/main.36e0e23e.chunk.js"
+  ]
+}
